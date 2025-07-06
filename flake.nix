@@ -1,5 +1,5 @@
 {
-  description = "Description for the project";
+  description = "A data serialization language for expressing clear API messages, config files, etc.";
 
   inputs = {
     nixpkgs.url = "github:NixOS/nixpkgs/nixos-unstable";
